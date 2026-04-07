@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![skills.sh Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-除了张雪峰老师外，抖音还有哪位大名鼎鼎的灵魂导师？<br/><br/>没错，就是餐饮导师——勇哥<br/><br/>经过调试，赛博勇哥已经有九成勇哥味了<br/><br/>唯一的遗憾，就是没有360度转一圈<br/><br/>不过作为连麦不到勇哥的代餐<br/><br/>或者用来验证想法<br/><br/>或者就是图一乐<br/><br/>我相信赛博勇哥不会让你失望
+除了张雪峰老师外，抖音还有哪位大名鼎鼎的灵魂导师？<br/><br/>没错，就是餐饮导师——勇哥<br/><br/>经过调试，赛博勇哥已经有九成勇哥味了<br/><br/>唯一的遗憾，就是没有360度转一圈<br/><br/>你可以用赛博勇哥来：<br/><br/>1、作为连麦不到勇哥的代餐<br/><br/>2、还没启动，验证想法<br/><br/>3、图一乐
 
 ## 安装
 
