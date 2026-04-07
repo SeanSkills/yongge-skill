@@ -1,6 +1,6 @@
 # yongge-skill
 
-> 勇哥说餐饮的思维框架与表达方式 Skill
+> 这次赛博永生的是：餐饮界的灵魂导师——勇哥
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![skills.sh Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
