@@ -5,9 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![skills.sh Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-把「勇哥说餐饮」蒸馏成一个可直接调用的 Skill，用来分析餐饮创业、门店经营、加盟风险、止损决策与小微门店生存问题。
-
-这个 Skill 基于公开内容调研整理，重点不在鸡血和故事，而在现实取证、现金流、生存权、低杠杆试错。
+除了张雪峰老师外，抖音还有哪位大名鼎鼎的灵魂导师？<br/><br/>没错，就是餐饮创业导师——勇哥<br/><br/>经过调试，我觉得赛博勇哥已经有九成勇哥味了<br/><br/>唯一的遗憾，就是没有360度转一圈<br/><br/>不过作为连麦不到勇哥的代餐，或者只是用来验证想法<br/><br/>或者就是图一乐<br/><br/>我相信赛博勇哥不会让你失望
 
 ## 安装
 
